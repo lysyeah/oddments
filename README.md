@@ -3,3 +3,7 @@
 토근을 생성해서 연동으 하니 푸쉬르 성공했다.   
 아래는 참고한 사이트이다.   
 [https://yeomss.tistory.com/m/233](https://yeomss.tistory.com/m/233)
+
+
+##swift storyboard 뭐가뭔지 알려줌
+https://www.youtube.com/watch?v=nRS94VyU8UE&list=PLva6rQOdsvQWlAzZJYhx1a0Y5Stu88cZK
