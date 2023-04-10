@@ -5,5 +5,5 @@
 [https://yeomss.tistory.com/m/233](https://yeomss.tistory.com/m/233)
 
 
-##swift storyboard 뭐가뭔지 알려줌. 
+##swift storyboard 뭐가뭔지 알려줌   
 https://www.youtube.com/watch?v=nRS94VyU8UE&list=PLva6rQOdsvQWlAzZJYhx1a0Y5Stu88cZK
